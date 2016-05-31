@@ -4,8 +4,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "study.Menu.Api", "study.Menu.Api\study.Menu.Api.csproj", "{DC062498-401F-4418-9763-AFBBCD6ACC95}"
+	ProjectSection(ProjectDependencies) = postProject
+		{25348CA8-4B0F-4666-8139-07E2C1EE8EEF} = {25348CA8-4B0F-4666-8139-07E2C1EE8EEF}
+		{59C781BE-814C-49D9-A4DF-A3A93E5123C4} = {59C781BE-814C-49D9-A4DF-A3A93E5123C4}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "study.Menu.Application", "study.Menu.Application\study.Menu.Application.csproj", "{C66CF0C7-E05E-4D64-8586-B2002D2F4C88}"
+	ProjectSection(ProjectDependencies) = postProject
+		{25348CA8-4B0F-4666-8139-07E2C1EE8EEF} = {25348CA8-4B0F-4666-8139-07E2C1EE8EEF}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "study.Menu.DomainModel", "study.Menu.DomainModel\study.Menu.DomainModel.csproj", "{59C781BE-814C-49D9-A4DF-A3A93E5123C4}"
 EndProject
