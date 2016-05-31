@@ -30,3 +30,4 @@ D:\SOA\Develop\StudySOAandDDD\study.Menu\study.Menu.Api\bin\study.Menu.DomainMod
 D:\SOA\Develop\StudySOAandDDD\study.Menu\study.Menu.Api\obj\Debug\study.Menu.Api.csprojResolveAssemblyReference.cache
 D:\SOA\Develop\StudySOAandDDD\study.Menu\study.Menu.Api\obj\Debug\study.Menu.Api.exe
 D:\SOA\Develop\StudySOAandDDD\study.Menu\study.Menu.Api\obj\Debug\study.Menu.Api.pdb
+D:\SOA\Develop\study.Menu\study.Menu.Api\bin\study.Menu.Api.exe.config
