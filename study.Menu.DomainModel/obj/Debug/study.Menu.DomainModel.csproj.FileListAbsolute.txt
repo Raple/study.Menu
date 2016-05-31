@@ -1,0 +1,11 @@
+D:\SOA\Develop\StudySOAandDDD\study.Menu\study.Menu.DomainModel\bin\study.Menu.DomainModel.dll
+D:\SOA\Develop\StudySOAandDDD\study.Menu\study.Menu.DomainModel\bin\study.Menu.DomainModel.pdb
+D:\SOA\Develop\StudySOAandDDD\study.Menu\study.Menu.DomainModel\bin\Castle.Core.dll
+D:\SOA\Develop\StudySOAandDDD\study.Menu\study.Menu.DomainModel\bin\Easy.Domain.dll
+D:\SOA\Develop\StudySOAandDDD\study.Menu\study.Menu.DomainModel\bin\Easy.Public.dll
+D:\SOA\Develop\StudySOAandDDD\study.Menu\study.Menu.DomainModel\bin\Easy.Rpc.dll
+D:\SOA\Develop\StudySOAandDDD\study.Menu\study.Menu.DomainModel\bin\Newtonsoft.Json.dll
+D:\SOA\Develop\StudySOAandDDD\study.Menu\study.Menu.DomainModel\bin\Castle.Core.xml
+D:\SOA\Develop\StudySOAandDDD\study.Menu\study.Menu.DomainModel\bin\Newtonsoft.Json.xml
+D:\SOA\Develop\StudySOAandDDD\study.Menu\study.Menu.DomainModel\obj\Debug\study.Menu.DomainModel.dll
+D:\SOA\Develop\StudySOAandDDD\study.Menu\study.Menu.DomainModel\obj\Debug\study.Menu.DomainModel.pdb

@@ -1,0 +1,14 @@
+D:\SOA\Develop\StudySOAandDDD\study.Menu\study.Menu.Application\bin\study.Menu.Application.dll
+D:\SOA\Develop\StudySOAandDDD\study.Menu\study.Menu.Application\bin\study.Menu.Application.pdb
+D:\SOA\Develop\StudySOAandDDD\study.Menu\study.Menu.Application\bin\Castle.Core.dll
+D:\SOA\Develop\StudySOAandDDD\study.Menu\study.Menu.Application\bin\Easy.Domain.dll
+D:\SOA\Develop\StudySOAandDDD\study.Menu\study.Menu.Application\bin\Easy.Public.dll
+D:\SOA\Develop\StudySOAandDDD\study.Menu\study.Menu.Application\bin\Easy.Rpc.dll
+D:\SOA\Develop\StudySOAandDDD\study.Menu\study.Menu.Application\bin\Newtonsoft.Json.dll
+D:\SOA\Develop\StudySOAandDDD\study.Menu\study.Menu.Application\bin\study.Menu.DomainModel.dll
+D:\SOA\Develop\StudySOAandDDD\study.Menu\study.Menu.Application\bin\study.Menu.DomainModel.pdb
+D:\SOA\Develop\StudySOAandDDD\study.Menu\study.Menu.Application\bin\Castle.Core.xml
+D:\SOA\Develop\StudySOAandDDD\study.Menu\study.Menu.Application\bin\Newtonsoft.Json.xml
+D:\SOA\Develop\StudySOAandDDD\study.Menu\study.Menu.Application\obj\Debug\study.Menu.Application.csprojResolveAssemblyReference.cache
+D:\SOA\Develop\StudySOAandDDD\study.Menu\study.Menu.Application\obj\Debug\study.Menu.Application.dll
+D:\SOA\Develop\StudySOAandDDD\study.Menu\study.Menu.Application\obj\Debug\study.Menu.Application.pdb
