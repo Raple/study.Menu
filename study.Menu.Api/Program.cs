@@ -18,14 +18,14 @@ namespace study.Menu.Api
     {
         static void Main(string[] args)
         {
-            string ip = IpHelper.IntranetIp4();
+            string ip = IpHelper.LoopbackIp();
             int port = GetPort(ip);
             var isRegsiterToRegiserCenter = StringHelper.ToInt32(ConfigurationManager.AppSettings["isRegsiterToRegiserCenter"], 1);
             if (isRegsiterToRegiserCenter == 1)
             {
                 string registerUrl = ConfigurationManager.AppSettings["registerUrl"];
                 string redisUrl = ConfigurationManager.AppSettings["redisUrl"];
-                int databaseIndex = int.Parse(ConfigurationManager.AppSettings["databaseIndex"]);
+                //int databaseIndex = int.Parse(ConfigurationManager.AppSettings["databaseIndex"]);
                 var builder = new RedisDirectoryBuilder(registerUrl, redisUrl);
                 builder.Build(new MySelfInfo() {
                     Description = "菜品服务",
