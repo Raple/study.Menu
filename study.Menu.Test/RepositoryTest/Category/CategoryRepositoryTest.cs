@@ -12,9 +12,6 @@ namespace study.Menu.Test.RepositoryTest.Category
             var foodCategory = Create();
             RepositoryRegistry.Category.Add(foodCategory);
             Assert.IsTrue(foodCategory.Id > 0);
-
-            var result = RepositoryRegistry.Category.FindBy(foodCategory.Id);
-            foodCategoryAssert(foodCategory, result);
         }
 
 
